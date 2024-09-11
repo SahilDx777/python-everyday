@@ -6,10 +6,8 @@
 # print(text_asd)
 
 
-result = []
-
-
 def check_two():
+    result = []
     for i in range(1, 16):
         if i % 2 == 0:
             result.append("Hi")
