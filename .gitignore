@@ -6,3 +6,12 @@ __pycache__/
 *.pyz
 *.pyw
 *.pyc
+
+.idea/Python_prac.iml
+.idea/codeStyles/codeStyleConfig.xml
+.idea/git_toolbox_blame.xml
+.idea/inspectionProfiles/profiles_settings.xml
+.idea/material_theme_project_new.xml
+.idea/misc.xml
+.idea/modules.xml
+.idea/vcs.xml
