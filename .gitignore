@@ -9,6 +9,7 @@ __pycache__/
 
 .gitignore
 
+.idea
 .idea/Python_prac.iml
 .idea/codeStyles/codeStyleConfig.xml
 .idea/git_toolbox_blame.xml
