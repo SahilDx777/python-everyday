@@ -21,8 +21,8 @@ def get_response(text) -> str:
         return f"I don't understand, please try again your, TEXT: {text}"
 
 
+print("Hello and Welcome to Chat Bot!")
 while True:
-    print("Hello and Welcome to Chat Bot!")
     user_input = input("You: ")
 
     if user_input == "exit":
